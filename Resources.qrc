@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>background.jpg</file>
+        <file>pipe.png</file>
+        <file>player.png</file>
+    </qresource>
+</RCC>
